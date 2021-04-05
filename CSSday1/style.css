@@ -1,0 +1,5 @@
+.card_main .card img{
+    width: 200px;
+    border: 1px solid red;
+}
+.card_content{width: 200px;}
